@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+}
+.header .form-group {
+  margin: 20px;
+}
+.divContent {
+ background-color: rgb(115, 181, 215);
+ border-radius: 20px;
+}
+.coxinha {
+width: 30%;
+}
+.form-label {
+  color: rgb(99, 49, 20);
+}
+#i274ok {
+ color: rgba(226, 185, 97, 0.873);
+ background-color: rgb(64, 16, 154);
+ width: 100px;
+}
+#trending {
+  margin-top: 30px;
+}
+
+.nomeSala {
+  font-size: 20px;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.nomeSala:hover {
+  background-color: antiquewhite;
+}
+
+.chatCard {
+  background-color: antiquewhite;
+  padding: 20px;
+  border-style: double;
+  border-radius: 10px;
+  margin: 20px auto;
+}
+
+.chatNome {
+  font-weight: 800;
+}

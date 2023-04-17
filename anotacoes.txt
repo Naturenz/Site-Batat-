@@ -1,0 +1,7 @@
+RGB 
+ 115
+ 181
+ 214
+
+firabase real time databse: 
+https://chat-batata-default-rtdb.firebaseio.com/
